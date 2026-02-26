@@ -17,7 +17,7 @@ static_assert(!UE_WITH_CONSTINIT_UOBJECT, "This generated code can only be compi
 			nullptr,
 			0,
 			PKG_CompiledIn | 0x00000040,
-			0xD552C873,
+			0x2E11C4C3,
 			0xF52C8DFE,
 			METADATA_PARAMS(0, nullptr)
 		};
@@ -25,5 +25,5 @@ static_assert(!UE_WITH_CONSTINIT_UOBJECT, "This generated code can only be compi
 	}
 	return Z_Registration_Info_UPackage__Script_NaniteAssemblyExtensions.OuterSingleton;
 }
-static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_NaniteAssemblyExtensions(Z_Construct_UPackage__Script_NaniteAssemblyExtensions, TEXT("/Script/NaniteAssemblyExtensions"), Z_Registration_Info_UPackage__Script_NaniteAssemblyExtensions, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xD552C873, 0xF52C8DFE));
+static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_NaniteAssemblyExtensions(Z_Construct_UPackage__Script_NaniteAssemblyExtensions, TEXT("/Script/NaniteAssemblyExtensions"), Z_Registration_Info_UPackage__Script_NaniteAssemblyExtensions, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x2E11C4C3, 0xF52C8DFE));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
