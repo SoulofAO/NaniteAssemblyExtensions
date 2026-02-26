@@ -1,0 +1,3 @@
+#include "NaniteAssemblyExtensionsModule.h"
+
+IMPLEMENT_MODULE(FNaniteAssemblyExtensionsModule, NaniteAssemblyExtensions)
